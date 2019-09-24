@@ -1,0 +1,38 @@
+Agile - KANBAN
+Agile - Agile Testing
+Agile - LEAN/XP
+Agile - Safe
+Estimaciones - Puntos de Funcion
+Estimaciones - Componenentes Poker
+
+Por qué el cambio?
+need for the change
+impact of the change
+value that comes out of change
+
+Agile Project management model
+1. Envisioning. 2. Speculating 3. exploring 4. adapting 5. closing
+
+XP EXtreme programming - months
+iteration plan -weeks
+acceptance test days
+stan up meeting one day
+pair negotiation hours
+unit test minutes
+pair programming
+code second
+
+LEAN
+1. Identify value. 2. Map the value stream 3.create flow 4. establish pull
+5. seek perfection
+Eliminate waste
+build quality in
+create knowledge
+defer commitment
+deliver fast
+respect people
+optimiza the whole
+
+rbE8BR8YYynM6N48
+
+MANTIS.Mañana seguimiento de mantis 10/09/2019.
